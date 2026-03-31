@@ -3,14 +3,13 @@
 # 🎓 T Level Digital Data Analytics | Portfolio Hub 2026
 > A collaborative archive showcasing the growth, creativity, and technical skills of the SECG BTC students.
 
----
+<br><br>
 
 ### 🌟 Featured Class Project
 **[Project Title]** by *[Student Name]*
 "An interactive dashboard that visualises local climate data using Excel"
 [🔗 View Live Demo](#)
 
-<br><br>
 <br><br>
 
 ### 👥 Student Directory
@@ -24,7 +23,6 @@
 | **Student 6** | Data visualisation project 1| [Explore ↗️](link-to-folder) |
 
 <br><br>
-<br><br>
 
 ### 🛠️ Common Skillset
 The students represented here have successfully completed modules in:
@@ -32,12 +30,12 @@ The students represented here have successfully completed modules in:
 * **Web Standards:** Semantic HTML5, CSS3, and Accessibility (WCAG).
 * **Problem Solving:** Logic-based programming and debugging.
 
+--
 ### 📁 How to Navigate this Repo
 1. Browse the **Student Directory** above.
 2. Click the link to go to a student's specific sub-directory.
 3. Each sub-directory contains a `README.md` explaining that student's specific journey.
 
-<br><br>
 <br><br>
 <br><br>
 *Maintained by Tau For inquiries, contact [Email Address].*
