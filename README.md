@@ -1,6 +1,6 @@
 # studentwork.github.io
 
-# 🎓 T Level Digital Data Analytics | Portfolio Hub 2026
+# <title>🎓 T Level Digital Data Analytics | Portfolio Hub 2026</title>
 > A collaborative archive showcasing the growth, creativity, and technical skills of the SECG BTC students.
 
 ---
@@ -10,7 +10,8 @@
 "An interactive dashboard that visualises local climate data using Excel"
 [🔗 View Live Demo](#)
 
----
+<br><br>
+<br><br>
 
 ### 👥 Student Directory
 | Student | Area of Interest | View Portfolio |
@@ -22,7 +23,8 @@
 | **Student 5** | Data visualisation project 1 | [Explore ↗️](link-to-folder) |
 | **Student 6** | Data visualisation project 1| [Explore ↗️](link-to-folder) |
 
----
+<br><br>
+<br><br>
 
 ### 🛠️ Common Skillset
 The students represented here have successfully completed modules in:
@@ -35,5 +37,7 @@ The students represented here have successfully completed modules in:
 2. Click the link to go to a student's specific sub-directory.
 3. Each sub-directory contains a `README.md` explaining that student's specific journey.
 
----
+<br><br>
+<br><br>
+<br><br>
 *Maintained by Tau For inquiries, contact [Email Address].*
