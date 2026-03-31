@@ -1,5 +1,37 @@
-title: Student Online portfolio 
-description: digital portfolio shifts the focus from "What grade did I get?" to "What did I learn and what can I do?" It transforms a collection of assignments into a coherent story of personal and professional development.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+
+# --- Site Settings ---
+title: Student Portfolio Hub 2026
+description: A digital archive showcasing the collective work and growth of our students.
+remote_theme: pages-themes/cayman@v0.2.0 # This is a beautiful, light-toned professional theme
+
+# --- Visual Tweaks ---
+# These variables help with the 'light' tone and branding
+show_downloads: false
+google_analytics: 
+# If you want a specific accent color (Soft Blue), many themes support this:
+accent_color: "#7fb3d5" 
+
+# --- Build Settings ---
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# --- Navigation & Structure ---
+# This helps Jekyll organize the student sub-folders
+collections:
+  students:
+    output: true
+    permalink: /students/:path/
+
+# --- Custom Defaults ---
+# This ensures every student page looks consistent without extra work
+defaults:
+  - scope:
+      path: "students"
+    values:
+      layout: "page"
+      author: "Student"
