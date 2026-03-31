@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f8f9fa; /* Very light grey */
+  color: #495057;           /* Soft dark grey text (easier on eyes than pure black) */
+}
+
+a {
+  color: #007bff;           /* Professional soft blue links */
+}
+
+h1, h2, h3 {
+  margin-top: 2rem;         /* Adds automatic space above headers */
+  color: #343a40;
+}
