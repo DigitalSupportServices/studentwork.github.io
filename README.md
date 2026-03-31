@@ -1,3 +1,6 @@
+
+
+
 # studentwork.github.io
 
 # 🎓 T Level Digital Data Analytics | Portfolio Hub 2026
@@ -15,7 +18,9 @@
 ### 👥 Student Directory
 | Student | Area of Interest | View Portfolio |
 | :--- | :--- | :--- |
-| **Student 1** | Data visualisation project 1| [Explore ↗️](_students/student 1.md) |
+| **Student 1** | Data visualisation project 1| [Explore ↗️]{% for student in site.students %}
+   <a href="{{ student.url | relative_url }}">View Portfolio</a>
+{% endfor %}|
 | **Student 2** | Data visualisation project 1 | [Explore ↗️](_students/student 2.md) |
 | **Student 3** | Data visualisation project 1| [Explore ↗️](_students/student 3.md) |
 | **Student 4** | Data visualisation project 1| [Explore ↗️](/students/student 4.md) |
