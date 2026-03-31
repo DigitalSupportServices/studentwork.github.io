@@ -1,2 +1,5 @@
 # studentwork.github.io
-Where students will  post their work
+theme: jekyll-theme-minimal
+title: Studentonline portfolio
+description: theme: digital portfolio shifts the focus from "What grade did I get?" to "What did I learn and what can I do?" It transforms a collection of assignments into a coherent story of personal and professional development.
+
