@@ -15,9 +15,9 @@
 ### 👥 Student Directory
 | Student | Area of Interest | View Portfolio |
 | :--- | :--- | :--- |
-| **Student 1** | Data visualisation project 1| [Explore ↗️](./students/student 1.md) |
-| **Student 2** | Data visualisation project 1 | [Explore ↗️](/students/student 2.md) |
-| **Student 3** | Data visualisation project 1| [Explore ↗️](/students/student 3.md) |
+| **Student 1** | Data visualisation project 1| [Explore ↗️](_students/student 1.md) |
+| **Student 2** | Data visualisation project 1 | [Explore ↗️](_students/student 2.md) |
+| **Student 3** | Data visualisation project 1| [Explore ↗️](_students/student 3.md) |
 | **Student 4** | Data visualisation project 1| [Explore ↗️](/students/student 4.md) |
 | **Student 5** | Data visualisation project 1 | [Explore ↗️](/students/student 5.md) |
 | **Student 6** | Data visualisation project 1| [Explore ↗️](/students/student 6.md) |
