@@ -1,6 +1,6 @@
 # studentwork.github.io
 
-# <title>🎓 T Level Digital Data Analytics | Portfolio Hub 2026</title>
+# 🎓 T Level Digital Data Analytics | Portfolio Hub 2026
 > A collaborative archive showcasing the growth, creativity, and technical skills of the SECG BTC students.
 
 ---
